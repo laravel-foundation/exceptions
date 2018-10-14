@@ -1,26 +1,28 @@
 {
-  "name": "laravel-foundation/exceptions",
-  "description": "The Exceptions component from Laravel Foundation.",
-  "keywords": [
-    "framework",
-    "laravel",
-    "foundation"
-  ],
-  "type": "project",
-  "license": "MIT",
-  "authors": [
-    {
-      "name": "Ashley Clarke",
-      "email": "me@ashleyclarke.me"
-    },
-    {
-      "name": "Taylor Otwell",
-      "email": "taylor@laravel.com"
+    "name": "laravel-foundation/exceptions",
+    "description": "The Exceptions component from Laravel Foundation.",
+    "keywords": [
+        "laravel",
+        "framework",
+        "illuminate",
+        "foundation",
+        "exceptions"
+    ],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ashley Clarke",
+            "email": "me@ashleyclarke.me"
+        },
+        {
+            "name": "Taylor Otwell",
+            "email": "taylor@laravel.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Illuminate\\Foundation\\Exceptions\\": "src/"
+        }
     }
-  ],
-  "autoload": {
-    "psr-4": {
-      "Illuminate\\Foundation\\Exceptions\\": "src/"
-    }
-  }
 }
