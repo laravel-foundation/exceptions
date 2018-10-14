@@ -1,6 +1,6 @@
 ## Laravel Foundation Exceptions Component
 
-This is an extraction of [https://github.com/laravel/framework/tree/v5.7.6/src/Illuminate/Foundation/Exceptions/](https://github.com/laravel/framework/tree/v5.7.6/src/Illuminate/Foundation/Exceptions/)
+This is an extraction of [https://github.com/laravel/framework/tree/v5.7.7/src/Illuminate/Foundation/Exceptions/](https://github.com/laravel/framework/tree/v5.7.7/src/Illuminate/Foundation/Exceptions/)
 
 ### Installation
 
